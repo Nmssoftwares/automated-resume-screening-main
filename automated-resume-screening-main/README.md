@@ -1,7 +1,7 @@
 # 🎯 Automated Resume Screening System
 
 <div align="center">
-  <img src="C:\Users\ashut\Desktop\automated-resume-screening-main\project_images\Banner.png" alt="Resume Screening Banner" width="800"/>
+  <img src="automated-resume-screening-main/project_images/Banner.png" alt="Resume Screening Banner" width="800"/>
 </div>
 
 <div align="center">
