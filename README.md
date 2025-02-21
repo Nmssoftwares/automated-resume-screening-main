@@ -32,7 +32,7 @@ The Automated Resume Screening System is an AI-powered application that revoluti
 
 ### 1. Resume Analysis Dashboard
 <div align="center">
-  <img src="project_images\1st.png" alt="Analysis Dashboard" width="700"/>
+  <img src="automated-resume-screening-main/project_images/1st.png" alt="Analysis Dashboard" width="700"/>
 </div>
 
 - 📊 Interactive visualizations
@@ -42,7 +42,7 @@ The Automated Resume Screening System is an AI-powered application that revoluti
 
 ### 2. Smart Resume Parsing
 <div align="center">
-  <img src="project_images\2nd.png" alt="Resume Parsing" width="700"/>
+  <img src="automated-resume-screening-main/project_images/2nd.png" alt="Resume Parsing" width="700"/>
 </div>
 
 - 📄 PDF and DOCX support
@@ -52,7 +52,7 @@ The Automated Resume Screening System is an AI-powered application that revoluti
 
 ### 3. Advanced Matching Algorithm
 <div align="center">
-  <img src="project_images\3rd.png" alt="Matching Algorithm" width="700"/>
+  <img src="automated-resume-screening-main/project_images/3rd.png" alt="Matching Algorithm" width="700"/>
 </div>
 
 - 🎯 TF-IDF vectorization
@@ -81,7 +81,7 @@ The Automated Resume Screening System is an AI-powered application that revoluti
 
 ### Main Interface
 <div align="center">
-  <img src="project_images\4th.png" alt="Main Interface" width="800"/>
+  <img src="automated-resume-screening-main/project_images/4th.png" alt="Main Interface" width="800"/>
 </div>
 
 ### Skills Analysis
@@ -91,13 +91,13 @@ The Automated Resume Screening System is an AI-powered application that revoluti
 
 ### Candidate Comparison
 <div align="center">
-  <img src="project_images\6th.png" alt="Candidate Comparison" width="800"/>
+  <img src="automated-resume-screening-main/project_images/5th.png" alt="Candidate Comparison" width="800"/>
 </div>
 
 ## 🏗 Architecture
 
 <div align="center">
-  <img src="project_images\Architecture.png" alt="System Architecture" width="700"/>
+  <img src="automated-resume-screening-main/project_images/Architecture.png" alt="System Architecture" width="700"/>
 </div>
 
 ```bash
